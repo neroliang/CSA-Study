@@ -1,15 +1,15 @@
 # Whitepaper-G1:
 
-Architecting for the cloud
+- [ ] [ ] Architecting for the cloud
 
 # Whitepaper-G2
 
-Reliability
+- [ ] Reliability
 
-Security
+- [ ] Security
 
-Performant
+- [ ] Performant
 
-CostEffective
+- [ ] CostEffective
 
-OperationExcellence
+- [ ] OperationExcellence
