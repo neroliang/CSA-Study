@@ -13,3 +13,16 @@
 - [ ] CostEffective
 
 - [ ] OperationExcellence
+
+Reading Q&A
+- [ ] S3
+
+- [ ] CloudFront
+
+- [ ] EC2
+
+- [ ] VPC
+
+- [ ] VPC-Peering
+
+- [ ] Direct-Connect
