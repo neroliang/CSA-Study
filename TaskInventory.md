@@ -1,20 +1,21 @@
-# Whitepaper-G1:
+# Whitepaper-G1: (2 times)
 
 - [ ] Architecting for the cloud
 
-# Whitepaper-G2
+# Whitepaper-G2 (5 Pillars/ Well-Architect Framework) (3 times)
 
-- [x] Reliability
+- [x] Reliability +
 
-- [x] Security
+- [x] Security +
 
 - [ ] Performant
 
-- [ ] CostEffective
+- [ ] CostEffective +
 
 - [ ] OperationExcellence
 
-Reading Q&A
+# Reading Q&A (2 Times)
+
 - [ ] S3
 
 - [ ] CloudFront
@@ -26,3 +27,27 @@ Reading Q&A
 - [ ] VPC-Peering
 
 - [ ] Direct-Connect
+
+- [ ] CloudFormation
+
+- [ ] Opswork 
+
+- [ ] ElasticBeanStalk
+
+- [ ] CodeDeploy
+
+- [ ] CodePipeline
+
+# Video Watching/Learning (1~2 times)
+
+- [ ]  Richard's Video
+
+- [ ]  Udemy Video
+
+- [ ] Security Best Practices (within youtube playlist)
+
+# Book
+
+- [ ]  Self-Study Guide
+
+- [ ]  
