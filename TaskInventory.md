@@ -2,7 +2,8 @@
 
 - [ ] Architecting for the cloud
 
-# Whitepaper-G2 (5 Pillars/ Well-Architect Framework) (3 times)
+# Whitepaper-G2 
+(5 Pillars/ Well-Architect Framework) (3 times)
 
 - [x] Reliability +
 
