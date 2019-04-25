@@ -1,12 +1,12 @@
 # Whitepaper-G1:
 
-- [ ] [ ] Architecting for the cloud
+- [ ] Architecting for the cloud
 
 # Whitepaper-G2
 
-- [ ] Reliability
+- [x] Reliability
 
-- [ ] Security
+- [x] Security
 
 - [ ] Performant
 
