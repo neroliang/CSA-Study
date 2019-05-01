@@ -40,6 +40,8 @@ CloudFront | :sunflower:|  |  |
 VPC | :sunflower:|  |  |  
 DirectConnect | :sunflower:|  |  |  
 Route53 | :sunflower:|  |  | 
+SNS | |  |  | 
+SQS | |  |  | 
 Cloudwatch | :sunflower:|  |  | 
 Cloudtrail | :sunflower:|  |  | 
 Opswork | :sunflower:|  |  |  
