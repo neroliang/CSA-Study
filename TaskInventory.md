@@ -19,7 +19,7 @@
 
 Service | FAQ-1st | FAQ-2 | FAQ-3 | ServiceLmt | UserGuide
 ------------ | ------------- | ------------ | ------------- | ------------ |  ------------ |
-S3(SimpleStorage) | :sunflower:|  |  |  
+S3(SimpleStorage) | :bouquet:|  |  |  
 EFS | :sunflower:|  |  |  
 Glacier | :sunflower:|  |  |  
 EBS | :sunflower:|  |  | 
