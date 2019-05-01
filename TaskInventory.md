@@ -39,20 +39,24 @@ Config | :sunflower:|  |  |
 CloudFront | :sunflower:|  |  |  
 VPC | :sunflower:|  |  |  
 DirectConnect | :sunflower:|  |  |  
-Route53 | :sunflower:|  |  |  
+Route53 | :sunflower:|  |  | 
+Cloudwatch | :sunflower:|  |  | 
+Cloudtrail | :sunflower:|  |  | 
 Opswork | :sunflower:|  |  |  
 
 
 # Video Watching/Learning (1~2 times)
 
-- [ ]  Richard's Video
+- [ ]  Richard's Video Course
 
-- [ ]  Udemy Video
+- [ ]  Rryan Video Course
 
-- [ ] Security Best Practices (within youtube playlist)
+- [ ]  WhizQuiz Video Course
 
-# Book
+- [ ]  Security Best Practices (within youtube playlist)
 
-- [ ]  Self-Study Guide
+# Other Videos
 
-- [ ]  
+- [ ]  AWS Networking (Richard)
+
+- [ ]  AWS Security (Anthord)
