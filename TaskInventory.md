@@ -19,9 +19,9 @@
 
 Service | FAQ-1st | FAQ-2 | FAQ-3 | ServiceLmt | UserGuide
 ------------ | ------------- | ------------ | ------------- | ------------ |  ------------ |
-S3(SimpleStorage) | :bouquet:|  |  |  
+S3(SimpleStorage) | :hibiscus: |  |  |  
 EFS | :sunflower:|  |  |  
-Glacier | :sunflower:|  |  |  
+Glacier | :hibiscus: |  |  |  
 EBS | :sunflower:|  |  | 
 EC2 | :sunflower:|  |  |  
 BeanStalk | :sunflower:|  |  |  
