@@ -17,9 +17,9 @@
 
 # Reading Q&A (2 Times)
 
-- [ ] S3
+- [ ] S3 :sunflower:
 
-- [ ] CloudFront
+- [ ] CloudFront :sunflower:
 
 - [ ] EC2
 
