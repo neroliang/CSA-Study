@@ -17,27 +17,31 @@
 
 # Reading Q&A (2 Times)
 
-- [ ] S3 :sunflower:
+Service | FAQ-1st | FAQ-2 | FAQ-3 | ServiceLmt | UserGuide
+------------ | ------------- | ------------ | ------------- | ------------ |  ------------ |
+S3(SimpleStorage) | :sunflower:|  |  |  
+EFS | :sunflower:|  |  |  
+Glacier | :sunflower:|  |  |  
+EBS | :sunflower:|  |  | 
+EC2 | :sunflower:|  |  |  
+BeanStalk | :sunflower:|  |  |  
+EC2-ASG | :sunflower:|  |  |  
+ASG | :sunflower:|  |  |  
+LoadBalancer | :sunflower:|  |  |  
+Auora | :sunflower:|  |  |  
+Neptune | :sunflower:|  |  |  
+DynamoDB | :sunflower:|  |  |  
+RedShift | :sunflower:|  |  |  
+RDS | :sunflower:|  |  |  
+IAM | :sunflower:|  |  |  
+TrustAdvisor | :sunflower:|  |  |  
+Config | :sunflower:|  |  |  
+CloudFront | :sunflower:|  |  |  
+VPC | :sunflower:|  |  |  
+DirectConnect | :sunflower:|  |  |  
+Route53 | :sunflower:|  |  |  
+Opswork | :sunflower:|  |  |  
 
-- [ ] CloudFront :sunflower:
-
-- [ ] EC2
-
-- [ ] VPC
-
-- [ ] VPC-Peering
-
-- [ ] Direct-Connect
-
-- [ ] CloudFormation
-
-- [ ] Opswork 
-
-- [ ] ElasticBeanStalk
-
-- [ ] CodeDeploy
-
-- [ ] CodePipeline
 
 # Video Watching/Learning (1~2 times)
 
