@@ -19,7 +19,7 @@
 
 Service | FAQ-1st | FAQ-2 | FAQ-3 | ServiceLmt | UserGuide
 ------------ | ------------- | ------------ | ------------- | ------------ |  ------------ |
-S3(SimpleStorage) | :hibiscus: |  |  |  
+S3(SimpleStorage) | :pushpin: |  |  |  
 EFS | :sunflower:|  |  |  
 Glacier | :pushpin: |  |  |  
 EBS | :sunflower:|  |  | 
@@ -31,7 +31,7 @@ LoadBalancer | :sunflower:|  |  |
 Auora | :sunflower:|  |  |  
 Neptune | :sunflower:|  |  |  
 DynamoDB | :sunflower:|  |  |  
-RedShift | :sunflower:|  |  |  
+RedShift | :pushpin: |  |  |  
 RDS | :sunflower:|  |  |  
 IAM | :sunflower:|  |  |  
 TrustAdvisor | :sunflower:|  |  |  
