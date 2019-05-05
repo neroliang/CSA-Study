@@ -48,6 +48,8 @@ Cloudtrail | :sunflower:|  |  |
 Opswork | :sunflower:|  |  |  
 
 
+Review at http://jayendrapatil.com/
+
 # Video Watching/Learning (1~2 times)
 
 - [ ]  Richard's Video Course
