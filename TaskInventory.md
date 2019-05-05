@@ -19,26 +19,25 @@
 
 Service | FAQ-1st | FAQ-2 | FAQ-3 | ServiceLmt | UserGuide
 ------------ | ------------- | ------------ | ------------- | ------------ |  ------------ |
-S3(SimpleStorage) | :pushpin: |  |  |  
+S3(SimpleStorage) :whale: | :pushpin: |  |  |  
 Glacier | :pushpin: |  |  |  
 EFS | G |  |  |  
 EBS | :sunflower:|  |  | 
-EC2 | G |  |  |  
+EC2 :whale: | G |  |  |  
 BeanStalk | :sunflower:|  |  |  
 EC2-ASG | :sunflower:|  |  |  
-ASG | :sunflower:|  |  |  
+ASG :whale: | :sunflower:|  |  |  
 LoadBalancer | :sunflower:|  |  |  
 Auora | :sunflower:|  |  |  
-RDS | |  |  |  
+RDS :whale: | |  |  |  
 Neptune | :sunflower:|  |  |  
 DynamoDB | :sunflower:|  |  |  
 RedShift | :pushpin: |  |  |  
-RDS | :sunflower:|  |  |  
-IAM | :sunflower:|  |  |  
+IAM :whale: | :sunflower:|  |  |  
 TrustAdvisor | :sunflower:|  |  |  
 Config | :sunflower:|  |  |  
 CloudFront | :sunflower:|  |  |  
-VPC | :sunflower:|  |  |  
+VPC :whale: | :sunflower:|  |  |  
 DirectConnect | :sunflower:|  |  |  
 Route53 | G|  |  | 
 SNS | |  |  | 
