@@ -20,15 +20,16 @@
 Service | FAQ-1st | FAQ-2 | FAQ-3 | ServiceLmt | UserGuide
 ------------ | ------------- | ------------ | ------------- | ------------ |  ------------ |
 S3(SimpleStorage) | :pushpin: |  |  |  
-EFS | :sunflower:|  |  |  
 Glacier | :pushpin: |  |  |  
+EFS | G |  |  |  
 EBS | :sunflower:|  |  | 
-EC2 | :sunflower:|  |  |  
+EC2 | G |  |  |  
 BeanStalk | :sunflower:|  |  |  
 EC2-ASG | :sunflower:|  |  |  
 ASG | :sunflower:|  |  |  
 LoadBalancer | :sunflower:|  |  |  
 Auora | :sunflower:|  |  |  
+RDS | |  |  |  
 Neptune | :sunflower:|  |  |  
 DynamoDB | :sunflower:|  |  |  
 RedShift | :pushpin: |  |  |  
@@ -39,7 +40,7 @@ Config | :sunflower:|  |  |
 CloudFront | :sunflower:|  |  |  
 VPC | :sunflower:|  |  |  
 DirectConnect | :sunflower:|  |  |  
-Route53 | :sunflower:|  |  | 
+Route53 | G|  |  | 
 SNS | |  |  | 
 SQS | |  |  | 
 Cloudwatch | :sunflower:|  |  | 
