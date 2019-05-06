@@ -22,7 +22,7 @@ Service | FAQ-1st | FAQ-2 | FAQ-3 | ServiceLmt | UserGuide
 S3(SimpleStorage) :whale: | :pushpin: |  |  |  
 Glacier | :pushpin: |  |  |  
 EFS | G |  |  |  
-EBS | :sunflower:|  |  | 
+EBS | :pushpin: |  |  | 
 EC2 :whale: | G |  |  |  
 BeanStalk | :sunflower:|  |  |  
 EC2-ASG | :sunflower:|  |  |  
